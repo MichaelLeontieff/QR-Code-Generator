@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MichaelLeontieff/QR-Code-Generator/issues"
   },
-  "homepage": "https://github.com/MichaelLeontieff/QR-Code-Generator#readme"
+  "homepage": "https://github.com/MichaelLeontieff/QR-Code-Generator#readme",
+  "dependencies": {
+    "qr-image": "^3.1.0"
+  }
 }
